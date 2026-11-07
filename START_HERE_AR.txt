@@ -1,0 +1,17 @@
+ابدئي من هنا:
+1) فكّي ضغط المجلد وافتحيه في VS Code.
+2) افتحي Terminal داخل مجلد المشروع.
+3) نفذي: py -m venv .venv
+4) ثم: .venv\Scripts\activate
+5) ثم: python -m pip install -r requirements.txt
+6) ثم: python download_data.py
+7) افتحي Jupyter: jupyter notebook
+8) شغلي Notebook 01 من أول خلية إلى آخر خلية.
+9) بعده شغلي Notebook 02 من أول خلية إلى آخر خلية.
+10) شغلي التطبيق: streamlit run main.py
+
+مهم:
+- العرض التقديمي مسودة منظمة، ويجب إدخال النتائج الفعلية والرسوم بعد تشغيل الدفاتر.
+- لا ترفعي ملف ZIP إلى GitHub؛ فكّي الضغط ثم ارفعي ملفات المشروع والمجلدات.
+- لا تغيّري Data/Original/hour.csv بعد تنزيله.
+- لا تضعي casual أو registered كمدخلات؛ لأنها تكشف الإجابة cnt.
