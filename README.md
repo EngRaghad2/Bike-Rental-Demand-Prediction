@@ -72,3 +72,4 @@ Run Notebook 02 to generate `Models/model_comparison.csv` and `Models/metrics.js
 
 ## Limitations
 The dataset is from one bike-sharing system in Washington, DC, during 2011–2012. Results may not generalize to other cities or current conditions. The data describes completed rentals, not unmet demand.
+The project includes an interactive Streamlit application for predicting hourly bike rental demand using four regression models.
